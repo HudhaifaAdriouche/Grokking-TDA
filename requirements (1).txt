@@ -1,0 +1,8 @@
+torch>=2.2
+numpy
+ripser
+persim
+matplotlib
+tqdm
+scipy
+jupyter
